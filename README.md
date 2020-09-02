@@ -1,7 +1,7 @@
 ## Hi, I'm Dan, or the LordOfPolls
 
-- 🔭 I’m currently working on a *[bot for my University Society](https://github.com/LordOfPolls/Oracle)*
-- 🌱 I’m currently learning *how to make cogs share data with each other*
+- 🔭 I’m currently working on a *a website*
+- 🌱 I’m currently learning *How to use Django*
 - 😄 Pronouns: *He / Him*
 - ⚡ Fun fact: *I have an unhealthy obsession with polls... hence the name*
 ---
