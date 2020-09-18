@@ -1,7 +1,7 @@
 ## Hi, I'm Dan, or the LordOfPolls
 
 - 🔭 I’m currently working on a *a website*
-- 🌱 I’m currently learning *How to use Django*
+- 🌱 I’m currently learning anything and everything
 - 😄 Pronouns: *He / Him*
 - ⚡ Fun fact: *I have an unhealthy obsession with polls... hence the name*
 ---
@@ -12,6 +12,7 @@
 <img align="left" alt="C#" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="HTML5" height="26" width="26" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="MySQL" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="DJango" height="26" width="26" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
 <img align="left" alt="PyCharm" height="26" width="26" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
 <img align="left" alt="DataGrip" height="26" width="26" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" />
 <img align="left" alt="Visual Studio" height="26" width="26" src="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/340?cb=20191019024151" />
