@@ -1,7 +1,7 @@
 ## Hi, I'm Dan, or the LordOfPolls
 
-- 🔭 I’m currently working on a *a website*
-- 🌱 I’m currently learning anything and everything
+- 🔭 I’m currently working on a [*QOTDBot*](https://github.com/LordOfPolls/QOTDBot)
+- 🌱 I’m currently learning asynchronous scheduling 
 - 😄 Pronouns: *He / Him*
 - ⚡ Fun fact: *I have an unhealthy obsession with polls... hence the name*
 ---
