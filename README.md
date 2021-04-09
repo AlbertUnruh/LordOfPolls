@@ -1,7 +1,7 @@
 ## Hi im the LordOfPolls
 
 - 🔭 I’m currently working on a [*Paladin*](https://github.com/LordOfPolls/Paladin)
-- 🌱 I’m currently learning asynchronous scheduling 
+- 🌱 I’m currently learning the joys of physics simulation 
 - 😄 Pronouns: *He / Him*
 - ⚡ Fun fact: *I have an unhealthy obsession with polls... hence the name*
 ---
