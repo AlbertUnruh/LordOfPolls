@@ -1,6 +1,6 @@
-## Hi, I'm Dan, or the LordOfPolls
+## Hi im the LordOfPolls
 
-- 🔭 I’m currently working on a [*QOTDBot*](https://github.com/LordOfPolls/QOTDBot)
+- 🔭 I’m currently working on a [*Paladin*](https://github.com/LordOfPolls/Paladin)
 - 🌱 I’m currently learning asynchronous scheduling 
 - 😄 Pronouns: *He / Him*
 - ⚡ Fun fact: *I have an unhealthy obsession with polls... hence the name*
