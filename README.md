@@ -23,3 +23,7 @@
 <img align="left" alt="Photoshop" height="26" width="26" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" />
 <br />
 <br />
+
+### Notice:
+
+All repositories under this account should be considered under the MIT license unless the repository has its own license file.
